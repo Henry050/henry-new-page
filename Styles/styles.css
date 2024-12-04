@@ -209,38 +209,38 @@ ul.ul-tag li a:hover{
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     .work-container{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     .about-section{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     .main{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     nav{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     .about-second-div{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
 }
 
 
-@media (max-width: 950px) {
+@media (max-width: 750px) {
     footer{
         grid-template-columns: repeat(2,minmax(0,1fr)) ;
     }
